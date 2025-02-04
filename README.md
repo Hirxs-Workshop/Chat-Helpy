@@ -13,6 +13,9 @@ Improve your MC chat experience with chat helpy, add custom ranks, clan tags, ch
 - Show users which platform/device you are from
 
 ## 📄 Chat helpy | Guide
+<details>
+<summary>Click to view guide!</summary>
+
 > **How to make ranks:**
 - `/tag (player name) add "rank:(rank name)"`
    - Example preview:
@@ -32,6 +35,8 @@ Improve your MC chat experience with chat helpy, add custom ranks, clan tags, ch
 - `/tag (player name) add "message:(Write a mc vanilla text color here (Example: §a) )"`
    - Example preview:
    - ![](/message_color.png)
+</details>
+
 ## ‼️ IMPORTANT
 - This add-on requires BETA API
 ![](/experiments.png)

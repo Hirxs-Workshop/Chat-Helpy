@@ -1,4 +1,3 @@
-# ⚡ Chat-Helpy
 All the essentials of a chat in a single add-on!
 --- 
 Improve your MC chat experience with chat helpy, add custom ranks, clan tags, change the color of your messages and much more!
